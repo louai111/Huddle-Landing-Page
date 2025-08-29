@@ -5,7 +5,7 @@
 
 ### Live Site
 
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://louai111.github.io/Huddle-Landing-Page/
 
 ### Built with
 
